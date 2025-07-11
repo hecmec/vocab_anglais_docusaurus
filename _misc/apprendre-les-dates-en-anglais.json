@@ -1,0 +1,435 @@
+{
+  "options": {
+    "text": {
+      "intro": "<h3>Connais-tu bien ces expressions de al date et du temps en Anglais ?</h3>",
+      "help": null,
+      "title": "Comprendre la date en Anglais (partie 2)",
+      "longIntro": null
+    },
+    "quizImgPath": "https://wunderquiz.cleverapps.io/filedata/image/",
+    "maxWrongLetters": 0,
+    "ignoreAccents": true,
+    "ignoreCase": true,
+    "showExplain": true,
+    "showMcHints": true,
+    "canGoBack": false,
+    "showAnswers": true,
+    "randomize": true
+  },
+  "userLang": "fr",
+  "imgSrcxx": "",
+  "imgSrc": "2018111/thumb_imagepngpng-1591387146795.jpg",
+  "questList": [
+    {
+      "type": "MultipleChoice",
+      "expl": "",
+      "weight": 10,
+      "qst_tmplName": "simple",
+      "ansList": [
+        {
+          "ans": "an, année",
+          "is": true
+        },
+        {
+          "ans": "mensuel",
+          "is": false
+        },
+        {
+          "ans": "minuit",
+          "is": false
+        },
+        {
+          "ans": "après-midi",
+          "is": false
+        }
+      ],
+      "qst_elements": {
+        "quest": "year"
+      },
+      "wordCount": 1
+    },
+    {
+      "type": "MultipleChoice",
+      "expl": "",
+      "weight": 10,
+      "qst_tmplName": "simple",
+      "ansList": [
+        {
+          "ans": "année bissextile",
+          "is": true
+        },
+        {
+          "ans": "semaine",
+          "is": false
+        },
+        {
+          "ans": "demain",
+          "is": false
+        },
+        {
+          "ans": "quart, trimestre",
+          "is": false
+        }
+      ],
+      "qst_elements": {
+        "quest": "a leap-year"
+      },
+      "wordCount": 3
+    },
+    {
+      "type": "MultipleChoice",
+      "expl": "",
+      "weight": 10,
+      "qst_tmplName": "simple",
+      "ansList": [
+        {
+          "ans": "siècle",
+          "is": true
+        },
+        {
+          "ans": "jour; journée",
+          "is": false
+        },
+        {
+          "ans": "midi",
+          "is": false
+        },
+        {
+          "ans": "quart, trimestre",
+          "is": false
+        }
+      ],
+      "qst_elements": {
+        "quest": "century"
+      },
+      "wordCount": 1
+    },
+    {
+      "type": "MultipleChoice",
+      "expl": "",
+      "weight": 10,
+      "qst_tmplName": "simple",
+      "ansList": [
+        {
+          "ans": "avant-hier",
+          "is": true
+        },
+        {
+          "ans": "matin, matinée",
+          "is": false
+        },
+        {
+          "ans": "quart, trimestre",
+          "is": false
+        },
+        {
+          "ans": "soirée, soir [Am]",
+          "is": false
+        }
+      ],
+      "qst_elements": {
+        "quest": "the day before yesterday"
+      },
+      "wordCount": 4
+    },
+    {
+      "type": "MultipleChoice",
+      "expl": "",
+      "weight": 10,
+      "qst_tmplName": "simple",
+      "ansList": [
+        {
+          "ans": "hier",
+          "is": true
+        },
+        {
+          "ans": "aube",
+          "is": false
+        },
+        {
+          "ans": "crépuscule",
+          "is": false
+        },
+        {
+          "ans": "matin, matinée",
+          "is": false
+        }
+      ],
+      "qst_elements": {
+        "quest": "yesterday"
+      },
+      "wordCount": 1
+    },
+    {
+      "type": "MultipleChoice",
+      "expl": "",
+      "weight": 10,
+      "qst_tmplName": "simple",
+      "ansList": [
+        {
+          "ans": "aujourd'hui, de nos jours",
+          "is": true
+        },
+        {
+          "ans": "quart, trimestre",
+          "is": false
+        },
+        {
+          "ans": "année bissextile",
+          "is": false
+        },
+        {
+          "ans": "hier",
+          "is": false
+        }
+      ],
+      "qst_elements": {
+        "quest": "today"
+      },
+      "wordCount": 1
+    },
+    {
+      "type": "MultipleChoice",
+      "expl": "",
+      "weight": 10,
+      "qst_tmplName": "simple",
+      "ansList": [
+        {
+          "ans": "demain",
+          "is": true
+        },
+        {
+          "ans": "midi",
+          "is": false
+        },
+        {
+          "ans": "nuit",
+          "is": false
+        },
+        {
+          "ans": "minuit",
+          "is": false
+        }
+      ],
+      "qst_elements": {
+        "quest": "tomorrow"
+      },
+      "wordCount": 1
+    },
+    {
+      "type": "MultipleChoice",
+      "expl": "",
+      "weight": 10,
+      "qst_tmplName": "simple",
+      "ansList": [
+        {
+          "ans": "après-demain",
+          "is": true
+        },
+        {
+          "ans": "crépuscule",
+          "is": false
+        },
+        {
+          "ans": "année bissextile",
+          "is": false
+        },
+        {
+          "ans": "soirée, soir [Am]",
+          "is": false
+        }
+      ],
+      "qst_elements": {
+        "quest": "the day after tomorrow"
+      },
+      "wordCount": 4
+    },
+    {
+      "type": "MultipleChoice",
+      "expl": "",
+      "weight": 10,
+      "questClass": "split-1-1",
+      "ansList": [
+        {
+          "ans": "printemps",
+          "is": true,
+          "fbko": "",
+          "fbok": ""
+        },
+        {
+          "ans": "automne",
+          "is": false,
+          "fbko": "",
+          "fbok": ""
+        },
+        {
+          "ans": "hiver",
+          "is": false,
+          "fbko": "",
+          "fbok": ""
+        },
+        {
+          "ans": "été",
+          "is": false,
+          "fbko": "",
+          "fbok": ""
+        }
+      ],
+      "qst_tmplName": "simple",
+      "qst_elements": {
+        "quest": "spring"
+      },
+      "wordCount": 1
+    },
+    {
+      "type": "MultipleChoice",
+      "expl": "",
+      "weight": 10,
+      "questClass": "split-1-1",
+      "ansList": [
+        {
+          "ans": "printemps",
+          "is": false,
+          "fbko": "",
+          "fbok": ""
+        },
+        {
+          "ans": "automne",
+          "is": false,
+          "fbko": "",
+          "fbok": ""
+        },
+        {
+          "ans": "hiver",
+          "is": false,
+          "fbko": "",
+          "fbok": ""
+        },
+        {
+          "ans": "été",
+          "is": true,
+          "fbko": "",
+          "fbok": ""
+        }
+      ],
+      "qst_tmplName": "simple",
+      "qst_elements": {
+        "quest": "summer"
+      },
+      "wordCount": 1
+    },
+    {
+      "type": "MultipleChoice",
+      "expl": "",
+      "weight": 10,
+      "questClass": "split-1-1",
+      "ansList": [
+        {
+          "ans": "printemps",
+          "is": false,
+          "fbko": "",
+          "fbok": ""
+        },
+        {
+          "ans": "automne",
+          "is": true,
+          "fbko": "",
+          "fbok": ""
+        },
+        {
+          "ans": "hiver",
+          "is": false,
+          "fbko": "",
+          "fbok": ""
+        },
+        {
+          "ans": "été",
+          "is": false,
+          "fbko": "",
+          "fbok": ""
+        }
+      ],
+      "qst_tmplName": "simple",
+      "qst_elements": {
+        "quest": "autumn"
+      },
+      "wordCount": 1
+    },
+    {
+      "type": "MultipleChoice",
+      "expl": "",
+      "weight": 10,
+      "questClass": "split-1-1",
+      "ansList": [
+        {
+          "ans": "printemps",
+          "is": false,
+          "fbko": "",
+          "fbok": ""
+        },
+        {
+          "ans": "automne",
+          "is": true,
+          "fbko": "",
+          "fbok": ""
+        },
+        {
+          "ans": "hiver",
+          "is": false,
+          "fbko": "",
+          "fbok": ""
+        },
+        {
+          "ans": "été",
+          "is": false,
+          "fbko": "",
+          "fbok": ""
+        }
+      ],
+      "qst_tmplName": "simple",
+      "qst_elements": {
+        "quest": "fall [am.]"
+      },
+      "wordCount": 2
+    },
+    {
+      "type": "MultipleChoice",
+      "expl": "",
+      "weight": 10,
+      "questClass": "split-1-1",
+      "ansList": [
+        {
+          "ans": "printemps",
+          "is": false,
+          "fbko": "",
+          "fbok": ""
+        },
+        {
+          "ans": "automne",
+          "is": false,
+          "fbko": "",
+          "fbok": ""
+        },
+        {
+          "ans": "hiver",
+          "is": true,
+          "fbko": "",
+          "fbok": ""
+        },
+        {
+          "ans": "été",
+          "is": false,
+          "fbko": "",
+          "fbok": ""
+        }
+      ],
+      "qst_tmplName": "simple",
+      "qst_elements": {
+        "quest": "winter"
+      },
+      "wordCount": 1
+    }
+  ],
+  "_id": "679a61792d8cdb0a7bf45603",
+  "id": "5bf6dc1a958c27d2028c61d5"
+}
