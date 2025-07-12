@@ -1,20 +1,22 @@
 ---
 title: "Les dates en anglais"
 description: "Les expressions anglaises les plus courantes pour parler de la date et du temps."
-image: "/public/images/les_dates_en_anglais.jpg"
+# image: "../../static/img/ les_dates_en_anglais.jpg"
 ---
 
 <!-- ::: {layout="[30,70]"} -->
 
-![](/public/images/les_dates_en_anglais.jpg)
+![]("../../static/img/les_dates_en_anglais.jpg"
+/les_dates_en_anglais.jpg)
 
 In this lesson you're going to hit the ground running -- in the first five minutes you'll see a complete end to end example of training and using a model <br />
 Bla bla bla slkfdjs flqsdf jslqkfj qslmdfkj qslmfj <br />
 eins zwei drei
 
 <!-- ::: -->
-<br>
-<br>
+
+&nbsp;  
+&nbsp;
 
 ## Liste: le vocabulaire pour parler des dates en anglais
 
@@ -76,19 +78,19 @@ eins zwei drei
     November	novembre
     December	décembre
 
-<br>
-<br>
+&nbsp;  
+&nbsp;
 
 ## Quiz: Les dates en anglais 1
 
 <a href="https://www.wunderquiz.com/fr/play/comprendre-la-date-en-anglais-partie-1" target="_blank">
-  <img src="/public/images/WunderQuiz_Comprendre_la_date_en_Anglais_partie_1.png" alt="Comprendre la date en Anglais (partie 1)" width="100%" >
+  <img src="../../static/img/topic/WunderQuiz_Comprendre_la_date_en_Anglais_partie_1.png" alt="Comprendre la date en Anglais (partie 1)" width="100%" />
   Comprendre la date en Anglais (partie 1)
 </a>
 
 ## Quiz: Les dates en anglais 2
 
 <a href="https://www.wunderquiz.com/fr/play/comprendre-la-date-en-anglais-partie-2" target="_blank">
-  <img src="/public/images/WunderQuiz_Comprendre_la_date_en_Anglais_partie_2.png" alt="Comprendre la date en Anglais (partie 2)" width="100%" >
+  <img src="../../static/img/topic/WunderQuiz_Comprendre_la_date_en_Anglais_partie_2.png" alt="Comprendre la date en Anglais (partie 2)" width="100%" />
   Comprendre la date en Anglais (partie 2)
 </a>
